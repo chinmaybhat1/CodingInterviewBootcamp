@@ -1,6 +1,6 @@
 $(function() {
     const inputArray = [1,2,3,4,5];
-    const chunkSize = 5;
+    const chunkSize = 2;
     console.log(chunk(inputArray, chunkSize));
 });
 
